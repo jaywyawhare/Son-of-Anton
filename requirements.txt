@@ -1,0 +1,7 @@
+tensorflow
+tflearn 
+nltk
+numpy 
+tflearn
+transformers
+torch
